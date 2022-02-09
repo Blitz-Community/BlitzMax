@@ -11,5 +11,5 @@ Short desc goes here I suppose
 
 ### Related
 * [Official website](https://blitzmax.org)
-* [SyntaxBomb archive](../../../SyntaxBomb-Backup)
+* [SyntaxBomb archive](../../../syntaxbomb-backup)
 * [Discord](https://discord.gg/yVxkBybBsY)
