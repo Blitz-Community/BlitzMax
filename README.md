@@ -1,3 +1,9 @@
-BlitzMax Community
-===
-Testing things related to the BlitzMax community
+## Welcome to the BlitzMax community repository
+### Short desc goes here I suppose
+
+---
+
+[Official website](https://blitzmax.org)\
+[Discussions Board](/discussions)\
+[Wiki](/wiki)\
+[Code archive](/)\
