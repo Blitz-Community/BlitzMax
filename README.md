@@ -4,6 +4,9 @@
 ---
 
 [Official website](https://blitzmax.org)\
-[Discussions Board](../../discussions)\
-[Wiki](../../wiki)\
+[Discussions board](../../discussions)\
+[Tutorials](../../discussions/categories/tutorials)\
+[Worklogs](../../discussions/categories/worklogs)\
+[Worklogs](../../wiki)\
 [Code archive](/code%20archive)
+[Syntaxbomb archive](/syntaxbomb%20archive)
