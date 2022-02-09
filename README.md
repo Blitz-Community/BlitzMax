@@ -7,6 +7,6 @@
 [Discussions board](../../discussions)\
 [Tutorials](../../discussions/categories/tutorials)\
 [Worklogs](../../discussions/categories/worklogs)\
-[Worklogs](../../wiki)\
+[Wiki](../../wiki)\
 [Code archive](/code%20archive)
 [Syntaxbomb archive](/syntaxbomb%20archive)
