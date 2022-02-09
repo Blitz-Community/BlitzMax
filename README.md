@@ -8,5 +8,5 @@
 [Tutorials](../../discussions/categories/tutorials)\
 [Worklogs](../../discussions/categories/worklogs)\
 [Wiki](../../wiki)\
-[Code archive](/code%20archive)
+[Code archive](/code%20archive)\
 [Syntaxbomb archive](/syntaxbomb%20archive)
