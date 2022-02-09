@@ -12,4 +12,4 @@ In this repository:
 * [Code archive](/code%20archive)
 
 Related:
-* [Syntaxbomb archive](../../../SyntaxBomb-Backup)
+* [SyntaxBomb archive](../../../SyntaxBomb-Backup)
