@@ -13,3 +13,4 @@ In this repository:
 Related:
 * [Official website](https://blitzmax.org)
 * [SyntaxBomb archive](../../../SyntaxBomb-Backup)
+* [Discord](https://discord.gg/yVxkBybBsY)
