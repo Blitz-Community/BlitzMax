@@ -4,6 +4,6 @@
 ---
 
 [Official website](https://blitzmax.org)\
-[Discussions Board](/discussions)\
-[Wiki](/wiki)\
-[Code archive](/)\
+[Discussions Board](../../discussions)\
+[Wiki](../../wiki)\
+[Code archive](/code%20archive)
