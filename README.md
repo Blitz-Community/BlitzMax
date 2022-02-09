@@ -4,12 +4,12 @@
 ---
 
 In this repository:
-* [Official website](https://blitzmax.org)
+* [Wiki](../../wiki)
+* [Code archive](/code%20archive)
 * [Discussions board](../../discussions)
 * [Tutorials](../../discussions/categories/tutorials)
 * [Worklogs](../../discussions/categories/worklogs)
-* [Wiki](../../wiki)
-* [Code archive](/code%20archive)
 
 Related:
+* [Official website](https://blitzmax.org)
 * [SyntaxBomb archive](../../../SyntaxBomb-Backup)
