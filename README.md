@@ -9,7 +9,4 @@ Short desc goes here I suppose
 * [Tutorials](../../discussions/categories/tutorials)
 * [Worklogs](../../discussions/categories/worklogs)
 
-### Related
-* [Official website](https://blitzmax.org)
-* [SyntaxBomb archive](../../../syntaxbomb-backup)
-* [Discord](https://discord.gg/yVxkBybBsY)
+[Community website](https://blitz-community.github.io/web)
